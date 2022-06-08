@@ -1,0 +1,6 @@
+framework module Pods_Photosum {
+  umbrella header "Pods-Photosum-umbrella.h"
+
+  export *
+  module * { export * }
+}
